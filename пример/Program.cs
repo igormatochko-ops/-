@@ -8,7 +8,7 @@ class mashina
 
     public mashina()
     {
-        speed = 240;
+        speed = "666";
         model = "mazda";
         color = "red";
     }
