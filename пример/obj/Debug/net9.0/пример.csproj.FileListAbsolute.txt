@@ -1,0 +1,14 @@
+D:\уппп\пример\пример\bin\Debug\net9.0\пример.exe
+D:\уппп\пример\пример\bin\Debug\net9.0\пример.deps.json
+D:\уппп\пример\пример\bin\Debug\net9.0\пример.runtimeconfig.json
+D:\уппп\пример\пример\bin\Debug\net9.0\пример.dll
+D:\уппп\пример\пример\bin\Debug\net9.0\пример.pdb
+D:\уппп\пример\пример\obj\Debug\net9.0\пример.GeneratedMSBuildEditorConfig.editorconfig
+D:\уппп\пример\пример\obj\Debug\net9.0\пример.AssemblyInfoInputs.cache
+D:\уппп\пример\пример\obj\Debug\net9.0\пример.AssemblyInfo.cs
+D:\уппп\пример\пример\obj\Debug\net9.0\пример.csproj.CoreCompileInputs.cache
+D:\уппп\пример\пример\obj\Debug\net9.0\пример.dll
+D:\уппп\пример\пример\obj\Debug\net9.0\refint\пример.dll
+D:\уппп\пример\пример\obj\Debug\net9.0\пример.pdb
+D:\уппп\пример\пример\obj\Debug\net9.0\пример.genruntimeconfig.cache
+D:\уппп\пример\пример\obj\Debug\net9.0\ref\пример.dll
